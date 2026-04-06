@@ -27,3 +27,10 @@
     border-radius: 5px;
     cursor: pointer;
   }
+
+  .disabled {
+    background-color: grey;
+    color:black;
+    border-width: 5px;
+    cursor: not-allowed;
+  }
